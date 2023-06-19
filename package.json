@@ -1,6 +1,6 @@
 {
     "name": "com.larndt.action-game-components",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "displayName": "Action Game Components",
     "description": "Everyday components for action games, e.g. FPS and RPG games",
     "unity": "2019.1",
